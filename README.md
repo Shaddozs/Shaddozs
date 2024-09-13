@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm an enthusiastic learner, driven by my passion for **robotics**, **automation**, and **artificial intelligence**. Currently, I'm diving into the intersection of engineering and innovation through my studies and work at **Fortitude Genius Indonesia**. I also am a founder in **Mecha-ECS**, where I collaborate with fellow students and engineers to explore the ever-evolving field of mechatronics.
+I'm an enthusiastic learner, driven by my passion for **robotics**, **automation**, and **artificial intelligence**. Currently, I'm diving into the intersection of engineering and innovation through my studies and work at **Fortitude Genius Indonesia**. I also am one of the founder of **Mecha-ECS**, where I collaborate with fellow students and engineers to explore the ever-evolving field of mechatronics.
 
 I believe that technology, when used creatively, can transform ideas into powerful solutions. I’m always looking to learn, build, and create projects that solve real-world problems.
 
