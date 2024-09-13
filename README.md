@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate Student of Mechatronics Engineering** <br>
 🚀 **Currently working at**: Fortitude Genius Indonesia (Startup) <br>
-🔧 **Founder of**: Mecha-ECS (Educational Study Community in Mechatronics)
+🔧 **Head of Administration at**: Mecha-ECS (Educational Study Community in Mechatronics)
 
 ---
 
